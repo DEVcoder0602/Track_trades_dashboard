@@ -3,7 +3,7 @@ import Table from "react-bootstrap/Table";
 const TableComponent = () => {
   return (
     <div>
-      <div className="d-flex justify-content-evenly">
+      <div className="d-flex justify-content-evenly fw-bold fs-4">
         <div>CALLS</div>
         <div>PUTS</div>
       </div>
@@ -27,6 +27,125 @@ const TableComponent = () => {
           </tr>
         </thead>
         <tbody>
+          <tr>
+            <td style={{ backgroundColor: "#fffacd" }}>Table cell</td>
+            <td style={{ backgroundColor: "#fffacd" }}>Table cell</td>
+            <td style={{ backgroundColor: "#fffacd" }}>Table cell</td>
+            <td style={{ backgroundColor: "#fffacd" }}>Table cell</td>
+            <td style={{ backgroundColor: "#fffacd", color: "#27ae60" }}>
+              + 123.5%
+            </td>
+            <td style={{ backgroundColor: "#fffacd" }}>Table cell</td>
+            <td style={{ backgroundColor: "#efe8fb" }}>Table cell</td>
+            <td>Table cell</td>
+            <td style={{ color: "#ff6b6b" }}>- 44.2%</td>
+            <td>Table cell</td>
+            <td>Table cell</td>
+            <td>Table cell</td>
+            <td>Table cell</td>
+          </tr>
+          <tr>
+            <td style={{ backgroundColor: "#fffacd" }}>Table cell</td>
+            <td style={{ backgroundColor: "#fffacd" }}>Table cell</td>
+            <td style={{ backgroundColor: "#fffacd" }}>Table cell</td>
+            <td style={{ backgroundColor: "#fffacd" }}>Table cell</td>
+            <td style={{ backgroundColor: "#fffacd", color: "#27ae60" }}>
+              + 123.5%
+            </td>
+            <td style={{ backgroundColor: "#fffacd" }}>Table cell</td>
+            <td style={{ backgroundColor: "#efe8fb" }}>Table cell</td>
+            <td>Table cell</td>
+            <td style={{ color: "#ff6b6b" }}>- 44.2%</td>
+            <td>Table cell</td>
+            <td>Table cell</td>
+            <td>Table cell</td>
+            <td>Table cell</td>
+          </tr>
+          <tr>
+            <td style={{ backgroundColor: "#fffacd" }}>Table cell</td>
+            <td style={{ backgroundColor: "#fffacd" }}>Table cell</td>
+            <td style={{ backgroundColor: "#fffacd" }}>Table cell</td>
+            <td style={{ backgroundColor: "#fffacd" }}>Table cell</td>
+            <td style={{ backgroundColor: "#fffacd", color: "#27ae60" }}>
+              + 123.5%
+            </td>
+            <td style={{ backgroundColor: "#fffacd" }}>Table cell</td>
+            <td style={{ backgroundColor: "#efe8fb" }}>Table cell</td>
+            <td>Table cell</td>
+            <td style={{ color: "#ff6b6b" }}>- 44.2%</td>
+            <td>Table cell</td>
+            <td>Table cell</td>
+            <td>Table cell</td>
+            <td>Table cell</td>
+          </tr>
+          <tr>
+            <td style={{ backgroundColor: "#fffacd" }}>Table cell</td>
+            <td style={{ backgroundColor: "#fffacd" }}>Table cell</td>
+            <td style={{ backgroundColor: "#fffacd" }}>Table cell</td>
+            <td style={{ backgroundColor: "#fffacd" }}>Table cell</td>
+            <td style={{ backgroundColor: "#fffacd", color: "#27ae60" }}>
+              + 123.5%
+            </td>
+            <td style={{ backgroundColor: "#fffacd" }}>Table cell</td>
+            <td style={{ backgroundColor: "#efe8fb" }}>Table cell</td>
+            <td>Table cell</td>
+            <td style={{ color: "#ff6b6b" }}>- 44.2%</td>
+            <td>Table cell</td>
+            <td>Table cell</td>
+            <td>Table cell</td>
+            <td>Table cell</td>
+          </tr>
+          <tr>
+            <td style={{ backgroundColor: "#fffacd" }}>Table cell</td>
+            <td style={{ backgroundColor: "#fffacd" }}>Table cell</td>
+            <td style={{ backgroundColor: "#fffacd" }}>Table cell</td>
+            <td style={{ backgroundColor: "#fffacd" }}>Table cell</td>
+            <td style={{ backgroundColor: "#fffacd", color: "#27ae60" }}>
+              + 123.5%
+            </td>
+            <td style={{ backgroundColor: "#fffacd" }}>Table cell</td>
+            <td style={{ backgroundColor: "#efe8fb" }}>Table cell</td>
+            <td>Table cell</td>
+            <td style={{ color: "#ff6b6b" }}>- 44.2%</td>
+            <td>Table cell</td>
+            <td>Table cell</td>
+            <td>Table cell</td>
+            <td>Table cell</td>
+          </tr>
+          <tr>
+            <td style={{ backgroundColor: "#fffacd" }}>Table cell</td>
+            <td style={{ backgroundColor: "#fffacd" }}>Table cell</td>
+            <td style={{ backgroundColor: "#fffacd" }}>Table cell</td>
+            <td style={{ backgroundColor: "#fffacd" }}>Table cell</td>
+            <td style={{ backgroundColor: "#fffacd", color: "#27ae60" }}>
+              + 123.5%
+            </td>
+            <td style={{ backgroundColor: "#fffacd" }}>Table cell</td>
+            <td style={{ backgroundColor: "#efe8fb" }}>Table cell</td>
+            <td>Table cell</td>
+            <td style={{ color: "#ff6b6b" }}>- 44.2%</td>
+            <td>Table cell</td>
+            <td>Table cell</td>
+            <td>Table cell</td>
+            <td>Table cell</td>
+          </tr>
+          <tr>
+            <td style={{ backgroundColor: "#fffacd" }}>Table cell</td>
+            <td style={{ backgroundColor: "#fffacd" }}>Table cell</td>
+            <td style={{ backgroundColor: "#fffacd" }}>Table cell</td>
+            <td style={{ backgroundColor: "#fffacd" }}>Table cell</td>
+            <td style={{ backgroundColor: "#fffacd", color: "#27ae60" }}>
+              + 123.5%
+            </td>
+            <td style={{ backgroundColor: "#fffacd" }}>Table cell</td>
+            <td style={{ backgroundColor: "#efe8fb" }}>Table cell</td>
+            <td>Table cell</td>
+            <td style={{ color: "#ff6b6b" }}>- 44.2%</td>
+            <td>Table cell</td>
+            <td>Table cell</td>
+            <td>Table cell</td>
+            <td>Table cell</td>
+          </tr>
           <tr>
             <td style={{ backgroundColor: "#fffacd" }}>Table cell</td>
             <td style={{ backgroundColor: "#fffacd" }}>Table cell</td>
